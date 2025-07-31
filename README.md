@@ -18,11 +18,11 @@ Ensure that your laptop is not restricted by any limitations such as:
 
 ### Prerequisites
 
-Skills:
+#### Skills:
 - Basic understanding of software testing and version control
 - GitHub account and basic Git knowledge
 
-Technical Prerequisites:
+#### Technical Prerequisites:
 
 #### 1. Install VS Code IDE  
 Download and install from:  
