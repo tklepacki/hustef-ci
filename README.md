@@ -58,7 +58,7 @@ You should see the installed Python version.
 
 #### 4. Fork the Repository  
 Go to:  
-👉 https://github.com/tklepacki/rest-api-tests-python  
+👉 https://github.com/tklepacki/hustef-ci  
 
 Click **Fork** to create a copy in your GitHub account.
 
@@ -67,7 +67,7 @@ Click **Fork** to create a copy in your GitHub account.
 #### 5. Clone Your Forked Repository  
 Clone your forked repo to your local machine:
 ```bash
-git clone https://github.com/YOUR_USERNAME/rest-api-tests-python.git
+git clone https://github.com/YOUR_USERNAME/hustef-ci.git
 ```
 
 #### 6. Open the Project in VS Code  
