@@ -1,4 +1,4 @@
-# HUSTEG 2025 - Workshop | Automated Testing in CI/CD with Jenkins & GitHub Actions
+# HUSTEF 2025 - Workshop | Automated Testing in CI/CD with Jenkins & GitHub Actions
 
 Dear Participant,
 
