@@ -1,4 +1,10 @@
-# Workshop: Automated Testing in CI/CD with Jenkins & GitHub Actions
+# HUSTEG 2025 - Workshop | Automated Testing in CI/CD with Jenkins & GitHub Actions
+
+Dear Participant,
+
+I’m glad you chose my workshop :)
+
+To verify the environment we'll be using during the workshop, please follow the steps outlined in the WORKSHOP INSTRUCTIONS section.
 
 ## WORKSHOP INSTRUCTIONS
 
@@ -11,6 +17,12 @@ Ensure that your laptop is not restricted by any limitations such as:
 ---
 
 ### Prerequisites
+
+Skills:
+- Basic understanding of software testing and version control
+- GitHub account and basic Git knowledge
+
+Technical Prerequisites:
 
 #### 1. Install VS Code IDE  
 Download and install from:  
