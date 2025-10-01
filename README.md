@@ -97,7 +97,8 @@ docker pull jenkins/jenkins:lts
 
 ### ✅ You're All Set!
 
-Make sure everything is installed and working **before the workshop** to ensure smooth participation. In case of any problems with installation or configuration, please don't hesitate to contact me directly: t.klepacki@wp.pl
+Make sure everything is installed and working **before the workshop** to ensure smooth participation. In case of any problems with installation or configuration, please don't hesitate to contact me directly: t.klepacki@wp.pl. 
+
 See you soon! :)
 
 
