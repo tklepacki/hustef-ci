@@ -8,8 +8,8 @@ To verify the environment we'll be using during the workshop, please follow the 
 
 ## Useful links
 
-- Notes: https://docs.google.com/document/d/14ju_I5wfvodR6ljU3RE3Gx40nF39uGQg7WFy7v4TJAo/edit?usp=sharing
-- Exercises and Solutions: https://docs.google.com/document/d/1U5IxvKYRJDqOL0nHRxGzma7HYpOhfj29K839cV9tyKQ/edit?usp=sharing
+- Notes: https://docs.google.com/document/d/1U5IxvKYRJDqOL0nHRxGzma7HYpOhfj29K839cV9tyKQ/edit?usp=sharing
+- Exercises and Solutions: https://drive.google.com/drive/folders/1RYL1Pa-j1P8Y3DlX4p07F7VDG2IAC6tD?usp=drive_link
 
 ## WORKSHOP INSTRUCTIONS
 
