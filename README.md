@@ -9,7 +9,7 @@ To verify the environment we'll be using during the workshop, please follow the 
 ## Useful links
 
 - Notes: https://docs.google.com/document/d/14ju_I5wfvodR6ljU3RE3Gx40nF39uGQg7WFy7v4TJAo/edit?usp=sharing
-- Tasks and Solutions: https://docs.google.com/document/d/1U5IxvKYRJDqOL0nHRxGzma7HYpOhfj29K839cV9tyKQ/edit?usp=sharing
+- Exercises and Solutions: https://docs.google.com/document/d/1U5IxvKYRJDqOL0nHRxGzma7HYpOhfj29K839cV9tyKQ/edit?usp=sharing
 
 ## WORKSHOP INSTRUCTIONS
 
