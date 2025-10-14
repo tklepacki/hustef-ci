@@ -1,5 +1,5 @@
 name: Python Tests
-run-name: Rest API Python Tests
+run-name: Rest API Python Tests '${{ github.event.inputs.python_version}}'
 
 on:
   schedule:
